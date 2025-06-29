@@ -328,11 +328,6 @@ When AI features are unavailable (API quota exceeded, network issues), the syste
 4. **Template System**: Pre-built email templates
 5. **Analytics**: Usage analytics and performance metrics
 
-## 📞 Contact & Support
-
-**Developer:** KANKATALA VENU GOPAL KARTHIK  
-**Email:** [Your Email]  
-**GitHub:** [Your GitHub Profile]
 
 ## 📄 License
 
