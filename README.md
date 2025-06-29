@@ -90,7 +90,7 @@ Provides real-time visual feedback
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/KarthikKankatala/Ai-email-agent.git
 cd ai-email-agent
 
 # Install Python dependencies
