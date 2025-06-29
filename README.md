@@ -1,4 +1,4 @@
-# AI Email Agent
+#🤖 AI Email Agent
 
 A full-stack web application that automates Gmail email sending using browser automation with Selenium. The application provides a modern React frontend and FastAPI backend with real-time screenshot capture of the automation process.
 
